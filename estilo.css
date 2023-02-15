@@ -11,3 +11,17 @@
             
             100% { rotate: 360deg;  }
         }
+        .minha_engrenagem2
+        {
+            position: absolute;
+            top: 120px;
+            left: 450px;
+            animation: engrena2 5s infinite linear reverse;
+        }
+        @keyframes engrena2
+        {
+            0%   { rotate: 0deg; }
+            
+            100% { rotate: 360deg;  }
+        }
+
